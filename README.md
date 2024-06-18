@@ -10,6 +10,3 @@
 ![Java](https://upload.wikimedia.org/wikipedia/zh/8/88/Java_logo.png)
 
 ![minions](https://www.techapple.com/wp-content/uploads/2018/03/tenor_1.gif)
-
- [ ] uncheck
- [x] check
