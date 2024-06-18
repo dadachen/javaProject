@@ -3,6 +3,6 @@
 
 <hr>
 
-## [yahoo](http://tw.yahoo.com)
+[yahoo](http://tw.yahoo.com)
 
 <hr>
